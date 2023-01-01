@@ -9,8 +9,8 @@ Given a list of holidays and their dates, it will also automatically adjust the 
 
 This utility cannot function properly without proper configuration of the following files:
 
-	'Store.xlsx', located in 'employee_scheduler/work_schedule/store'
-	'Employees.xlsx', located in 'employee_scheduler/work_schedule/employees'
+	'Store.xlsx', located in '\employee_scheduler/work_schedule/store'
+	'Employees.xlsx', located in '\employee_scheduler/work_schedule/employees'
 
 Future releases and source code are available on my GitHub project page:
 
