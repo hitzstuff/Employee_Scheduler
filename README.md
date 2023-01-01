@@ -22,10 +22,10 @@ The author takes no responsibility for any issues that may occur.
 # Install Instructions:
 Requirements:
 
-- Python 3.9
-  * NumPy
-  * pandas
-  * PySimpleGUI
+- Python 3.9.13
+  * NumPy 1.22.4
+  * pandas 1.4.2
+  * PySimpleGUI 4.55.1
 	
 - Microsoft Excel
 
