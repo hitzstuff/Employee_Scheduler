@@ -9,12 +9,12 @@ Given a list of holidays and their dates, it will also automatically adjust the 
 
 This utility cannot function properly without proper configuration of the following files:
 
-	'Store.xlsx', located in 'Employee_Scheduler/Work_Schedule/Store'
-	'Employees.xlsx', located in 'Employee_Scheduler/Work_Schedule/Employees'
+	'Store.xlsx', located in 'employee_scheduler/work_schedule/store'
+	'Employees.xlsx', located in 'employee_scheduler/work_schedule/employees'
 
 Future releases and source code are available on my GitHub project page:
 
-	https://github.com/hitzstuff/Employee_Scheduler
+	https://github.com/hitzstuff/employee_scheduler
 
 This program is Alpha, and has no warranty.  It may not function as intended.
 The author takes no responsibility for any issues that may occur.
@@ -22,7 +22,12 @@ The author takes no responsibility for any issues that may occur.
 # Install Instructions:
 Requirements:
 
-Microsoft Excel
+- Python 3.9
+  * NumPy
+  * pandas
+  * PySimpleGUI
+	
+- Microsoft Excel
 
 # Legal:
 Employee Scheduler for Microsoft Excel is licensed under the Apache License Version 2.0. The full text of this license is available in the LICENSE file.
