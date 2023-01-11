@@ -1,5 +1,7 @@
 # Employee Scheduler for Microsoft Excel
-Version 0.0.1-alpha
+**Version:** 0.0.1-alpha
+
+**Download Link:** https://drive.google.com/u/0/uc?id=1ITxEu_afdQ0f33qdM43VrY6L7fxXpFWb&export=download
 
 # About:
 This utility is used to automatically populate a weekly schedule, given the year and week number, or an entire year of schedules if given only a year.
